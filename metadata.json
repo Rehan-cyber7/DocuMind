@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind",
+  "description": "An interactive Socratic Mock Viva interviewer that analyzes project reports, conducts tough cross-examinations, and tracks answer quality with an NLP feedback loop.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
